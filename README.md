@@ -1,2 +1,2 @@
 # mylinux
-some config or setting of mylinux.  Put here for backup.
+some config-files or setting-files of mylinux.  Put here for backup.
